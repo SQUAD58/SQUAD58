@@ -10,8 +10,8 @@ Bem-vindos ao repositório do Squad 58!  Aqui você encontrará todos os nossos 
 
 1.  [Eduardo Correia]( https://github.com/NzkYZY )
 2.  [Marcus Vinicius de Oliveira]( https://github.com/Vinny-Oliver )
-3.  [Nome do aluno 3]
-4.  [Nome do aluno 4]
+3.  [Letícia Morais]( https://github.com/LeleCastanheira )
+4.  [Giovanna Carolina Ferreira ] ( https://github.com/Giovanna-05 )
 5.  [Nome do aluno 5]
 6.  [Nome do aluno 6]
 
