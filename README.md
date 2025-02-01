@@ -47,7 +47,7 @@ Infraestrutura Escolar
 
 Esses dados reforçam a necessidade de soluções voltadas à equidade educacional, garantindo oportunidades iguais para todos. Nossa proposta é um hub inovador para jovens negros da periferia, um espaço físico e virtual que une criatividade, tecnologia e apoio para auxilia- lós no aprendizado, aprimoramento e mudança de vida por meio do conhecimento.
 
-5. Como esse problema afeta o público-alvo?
+4. Como esse problema afeta o público-alvo?
 •	Escolas em regiões periféricas, onde há maior concentração de população negra, possuem infraestrutura precária e falta de recursos.
 •	Maior taxa de distorção idade-série entre jovens negros.
 •	Dificuldade na permanência e conclusão do ensino superior.
@@ -57,7 +57,7 @@ Esses dados reforçam a necessidade de soluções voltadas à equidade educacion
 •	A falta de acesso à educação de qualidade perpetua barreiras e desmotiva muitos jovens.
 •	O racismo estrutural dentro do ambiente escolar pode levar ao desinteresse e à evasão.
 
-6. Qual o cronograma das atividades?
+5. Qual o cronograma das atividades?
 Semana 1 - Compreensão do Tema e Definição do Problema
 •	Estudo do tema e discussão em grupo.
 •	Definição do problema e do público-alvo.
@@ -74,7 +74,7 @@ Semana 3 - Entrega e Apresentação
 •	Ajustes finais e commits no GitHub.
 •	Testes finais e documentação do projeto.
 
-7. Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?
+6. Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?
 •	Líder: Eduardo Correia
 •	Vice-Líder: Marcus Oliveira
 •	Desenvolvedores: Eduardo Correia, Marcus Oliveira, Leticia Morais
@@ -82,7 +82,7 @@ Semana 3 - Entrega e Apresentação
 •	Documentação: Leticia Morais, Giovanna Ferreira
 •	Apresentação: Eduardo Correia, Marcus Oliveira, Leticia Morais, Giovanna Ferreira
 
-8. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. 
+7. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. 
 •	Trello para monitoramento das atividades.
 
 
